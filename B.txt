@@ -1,4 +1,4 @@
 first
 second
-THird
+thIRD line
 fourth
